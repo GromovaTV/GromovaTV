@@ -16,6 +16,8 @@
 [dreamjob - сервис по поиску работы](https://github.com/GromovaTV/job4j_dreamjob) | Java, Servlets, Filters, JSP(JSTL), HTML, JavaScript(JQuery, Ajax), Bootstrap 4, JDBC, PostgreSQL, Liquibase, Junit, Hamcrest, Mockito, H2, Maven, Tomcat, Log4j, Slf4j, Checkstyle
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GromovaTV&hide=shell&layout=compact)
+
 <!--
 **GromovaTV/GromovaTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
