@@ -4,11 +4,11 @@
 | 🚀 **Project** |  💻 **Technologies**|
 | - | - |
 [passports - сервис для управления паспортами](https://github.com/GromovaTV/job4j_passports) | Kubernetes, Docker, Kafka, Spring Boot Data JPA, Spring Boot, Java, Hibernate, PostgreSQL, Liquibase, Swagger, Maven, Checkstyle
-[weather - приложение прогноза погоды](https://github.com/GromovaTV/weather_reactive) | Spring Webflux, Spring Boot, Docker, Java, Lombok, Slf4j, Maven, Checkstyle
 [chat - REST сервис предоставляющий API для онлайн чата](https://github.com/GromovaTV/job4j_chat) | Kubernetes, Docker, Spring Security(JWT for authentication and authorization), Spring Data JPA, Spring Boot, Hibernate, PostgreSQL, Java, Liquibase, Lombok, Slf4j, Log4j, Swagger, Maven, Checkstyle
 [forum - форум для пользователей Job4j](https://github.com/GromovaTV/job4j_forum) | Kubernetes, Docker, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, Java, JSP(JSTL), Junit, Mockito, H2, Slf4j, Log4j, Liquibase, Lombok, Maven, Checkstyle
-[grabber - агрегатор Java вакансий](https://github.com/GromovaTV/job4j_grabber) | Java, Jsoup(parser), Quartz(scheduler), JDBC, PostgreSQL, Maven, Checkstyle
 [cartrade - площадка для продажи машин](https://github.com/GromovaTV/job4j_cartrade) | Java, Servlets, HTML, JSP(JSTL), JavaScript(JQuery, Ajax), Bootstrap 4, Hibernate, PostgreSQL, Liquibase, Maven, Tomcat, Log4j, Slf4j, Checkstyle
+[weather - приложение прогноза погоды](https://github.com/GromovaTV/weather_reactive) | Spring Webflux, Spring Boot, Docker, Java, Lombok, Slf4j, Maven, Checkstyle
+[grabber - агрегатор Java вакансий](https://github.com/GromovaTV/job4j_grabber) | Java, Jsoup(parser), Quartz(scheduler), JDBC, PostgreSQL, Maven, Checkstyle
 [discovery - Spring Cloud Discovery Service Application](https://github.com/GromovaTV/job4j_discovery) | Spring Boot, Spring Cloud Eureka Server, Spring Cloud Eureka Client, Java, Maven, Checkstyle
 [pooh - сервис для асинхронной рассылки сообщений](https://github.com/GromovaTV/job4j_pooh) | Java (Multithreading), Junit, Hamcrest, Maven, Checkstyle
 [car_accident - платформа для регистрации ДТП](https://github.com/GromovaTV/job4j_car_accident) | Java, Spring (Data JPA, MVC, Security), Hibernate, PostgreSQL, JSP(JSTL), Bootstrap 4, Maven, Tomcat, Log4j, Slf4j, Checkstyle
